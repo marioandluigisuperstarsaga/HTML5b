@@ -497,7 +497,9 @@ const blockProperties = [
 	// tile13
 	[false,false,false,false,false,false,false,false,false,false,false,0,0,false,true,true,1,false],
 	[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false,true,1,false],
-	[false,false,false,false,false,false,false,false,false,true,true,0,0,false,false,false,1,false],
+	[false,false,false,false,false,false,false,false,false,true,true,0,0,false,false,true,1,false],
+	[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false,true,1,false],
+	[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false,true,1,false], // 1
 	[false,true,false,false,false,false,false,false,true,false,false,0,2,false,false,true,1,false],
 	[false,false,false,false,false,false,false,false,true,false,false,0,2,false,false,true,1,false],
 ];
